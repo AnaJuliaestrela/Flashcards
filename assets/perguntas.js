@@ -1,0 +1,10 @@
+criaCartao('Frutas', 'Qual é a fruta favorita da Moranguinho?', 'O morango!');
+criaCartao('Amizade', 'Quem é a melhor amiga da Moranguinho?', 'A Laranjinha!');
+criaCartao('Animais', 'Qual animal de estimação da Moranguinho?', 'Um gatinho chamado Creme de Leite.');
+criaCartao('Cores', 'Qual a cor preferida da Moranguinho?', 'Rosa e vermelho.');
+criaCartao('Doces', 'O que a Moranguinho adora cozinhar?', 'Tortas de morango!');
+criaCartao('Natureza', 'Onde a Moranguinho mora?', 'Na Terra das Frutinhas.');
+criaCartao('Brincadeiras', 'O que a Moranguinho mais gosta de fazer?', 'Brincar com suas amigas.');
+criaCartao('Hobbies', 'Qual o passatempo favorito da Moranguinho?', 'Colher morangos.');
+criaCartao('Moda', 'Como a Moranguinho se veste?', 'Com roupas cheias de morangos e muito estilo.');
+criaCartao('História', 'De onde veio a Moranguinho?', 'Criada como personagem em cartões na década de 80.');
